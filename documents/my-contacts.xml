@@ -1,0 +1,10 @@
+<myphone>
+	<phone>Huawei</phone>
+	<number phone="model">lite</number>
+	<colour>blue</colour>
+	<connectivity>
+		<wifi>good</wifi>
+		<bluetooch>alsogood</bluetooch>
+		<mobiliedati>bite</mobiliedati>
+	</connectivity>
+</myphone>
